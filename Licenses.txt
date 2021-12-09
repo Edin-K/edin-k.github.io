@@ -1,0 +1,5 @@
+Git is licensed under the GNU General Public License version 2.
+
+Git for Windows also contains Embedded CAcert Root Certificates. For more information please go to httpswww.cacert.orgpolicyRootDistributionLicense.php.
+
+This package contains software from a number of other projects including Bash, zlib, curl, tcltk, perl, MSYS2 and a number of libraries and utilities from the GNU project, licensed under the GNU General Public License. Likewise, it contains Perl which is dual licensed under the GNU General Public License and the Artistic License.
